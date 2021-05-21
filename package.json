@@ -1,0 +1,27 @@
+{
+  "name": "fullstackprojekt-Johanna",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IluminEXQ/fullstackprojekt-Johanna.git"
+  },
+  "keywords": [],
+  "author": "Johanna Palborg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IluminEXQ/fullstackprojekt-Johanna/issues"
+  },
+  "homepage": "https://github.com/IluminEXQ/fullstackprojekt-Johanna#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.10"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
